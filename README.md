@@ -1,9 +1,8 @@
 # CS5180
 CS5180: Reinforcement Learning and Sequential Decision Making @ Northeastern University. Fall 2024 Course.
 
-Important Resources
-
-| Name    | Link |
+Most important supplementary resources for the course,
+| Resource    | Link |
 | -------- | ------- |
 | Introduction to Reinforcement Learning (2nd Edition), by Richard S. Sutton and Andrew G. Barto | [Book](http://incompleteideas.net/book/RLbook2020.pdf) |
 | DeepMind x UCL - Introduction to Reinforcement Learning 2015 | [Course](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=axvGuc4REsqvJUXe) |
