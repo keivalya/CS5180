@@ -10,3 +10,4 @@ Most important supplementary resources for the course,
 | Stanford CS234: Reinforcement Learning Winter 2019 | [Course](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=0lSKoZJI4Erp7h9_) |
 | Deep RL Bootcamp | [Course](https://sites.google.com/view/deep-rl-bootcamp/lectures) |
 | Spinning Up | [Tutorial](https://spinningup.openai.com/en/latest/index.html) |
+| Deep Reinforcement Learning in Action | [Book](https://www.manning.com/books/deep-reinforcement-learning-in-action) |
